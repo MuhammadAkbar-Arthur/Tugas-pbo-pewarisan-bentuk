@@ -31,7 +31,17 @@ Kemampuan sebuah objek atau metode untuk mengambil banyak bentuk.
 ## 📸 Screenshot Program (Output Menu Interaktif)
 
 1. **Pembuatan Objek Geometri (Menu 1-4)**
-   ![alt text](image.png) //bentuk, bujursangkar
-   ![alt text](image-1.png) //lingkaran, silinder
-2. **Pembuktian Polymorphism (Menu 5)**
-   ![alt text](image-2.png) //pholymorphism check
+   
+   ![alt text](image.png)
+
+   //bentuk, bujursangkar
+
+   ![alt text](image-1.png)
+
+   //lingkaran, silinder
+
+3. **Pembuktian Polymorphism (Menu 5)**
+
+   ![alt text](image-2.png)
+
+   //pholymorphism check
