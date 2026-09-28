@@ -71,8 +71,7 @@ public class Main {
                     System.out.print("Masukkan tinggi: ");
                     double tinggi = input.nextDouble();
                     input.nextLine(); 
-                    // PERBAIKAN: Urutan parameter disesuaikan dengan konstruktor Silinder(tinggi, radius, warna)
-                    daftarBentuk[jumlahBentuk] = new Silinder(tinggi, radiusSilinder, warnaSilinder);
+                    daftarBentuk[jumlahBentuk] = new Silinder(radiusSilinder, tinggi, warnaSilinder);
                     jumlahBentuk++;
                     System.out.println("-> Silinder berhasil dibuat!");
                     break;
